@@ -1,0 +1,92 @@
+00:00:00;Turandot;Nessun dorma;Puccini
+03:00:00;Carmen;Habanera;Bizet
+07:25:00;Il Trovatore;Miserere d'un'alma;Verdi
+11:55:00;La Boheme;Si mi chiamano Mimi;Puccini
+17:07:00;Fedora;Amor ti vieta;Giordano
+19:00:00;Faust;Soldiers Chorus Faust;Gounot
+25:20:00;Rigoletto;Gualtier Malde! ... Caro nome;Verdi
+31:30:00;Madama Butterfly;Vogliatemi bene;Puccini
+39:24:00;Il Barbiere di Siviglia;Largo al factotum ;Rossini
+44:15:00;Carmen;Je dis que rien ne m'epouvante;Bizet
+49:55:00;Lucia di Lammermoor;Chi mi frena in tal momento;Donizetti
+53:37:00;Louise;Depuis le Jour;Charpentier
+57:40:00;Eugene Onegin;Lyubvi Vsye Vozrasti Pokomi;Tchaikovsky
+63:15:00;Faust;Alerte, Alerte!... Anges Purs;Gounot
+68:32:00;Gianni Schicchi;O mio babbino caro;Puccini
+70:39:00;Nabucco;Va, pensiero, sull'ali dorate;Verdi
+75:20:00;Rodelinda;Dove sei, amato bene;Handel
+82:09:00;L'elisir d'amore;Una furtiva lagrima;Donizetti
+86:53:00;Lakme;The bell song;Delibes
+94:42:00;Tosca;E lucevan le stelle;Puccini
+97:48:00;Cavalleria Rusticana;Beato voi, comprar Alfio;Mascagni
+103:08:00;Rusalka;Mesicku na nebi hlubokem;Dvorák
+109:13:00;Cavalleria Rusticana;Intermezzo;Mascagni
+113:05:00;La Favorita;Spirto gentil;Donizetti
+118:32:00;Orfeo ed Euridice;Che faro senza Euridice;Gluck
+122:17:00;Tosca;Recondita armonia;Puccini
+125:01:00;Rigoletto;Un di, se ben rammentomi;Verdi
+130:30:00;La Filglia del Reggimiento;Amici Miei;Donizetti
+137:20:00;La Boheme;Che gelida manina;Puccini
+141:57:00;Lakme;Viens, Mallika, .. (Flower Duet);Delibes
+147:56:00;Le Nozze di Figaro;Non piu andrai farfallone amoroso;Mozart
+151:45:00;Così fan tutte;Soave sia il vento;Mozart
+158:51:00;Les Pêcheurs de Perles;C'est toi… Au fond du temple saint;Bizet
+167:39:00;La Wally;Ebben? Ne andro lontana;Catalani
+172:25:00;Luisa Miller;Oh! Fede Negar Potessi;Verdi
+177:17:00;Pagliacci;I Zampognari!...Don Din Don;Leoncavallo
+181:18:00;Werther;Toute mom âme est là;Massenet
+184:17:00;I Puritani;Son vergin vezzosa;Bellini
+187:16:00;Pagliacci;Prelude…Si può;Leoncavallo
+192:38:00;Tosca;Vissi d'arte, vissi d'amore;Puccini
+195:55:00;La Traviata;Un di felice, eterea;Verdi
+199:20:00;La Gioconda;Cielo e Mar;Ponchielli
+204:11:00;Tosca;Te Deum;Puccini
+209:10:00;Die Walküre;Hojotoho! Hojotoho! (Ride of the Valkyries);Wagner
+215:28:00;Tannhäuser;O du, mein holder Abendstern;Wagner
+220:59:00;Orfeo ed Euridice;Che puro ciel, che chiaro sol;Gluck
+225:33:00;Don Giovanni;Là ci darem la mano;Mozart
+228:50:00;Il Trovadore;Ah si ben mio;Verdi
+231:46:00;Aida;Ritorna vincitor;Verdi
+239:14:00;Carmen;La fleur que tu m'avais jetée;Bizet
+243:06:00;Madama Butterfly;Coro a Bocca Chiusa (Humming Chorus);Puccini
+246:02:00;Carmen;L'amour est un oiseau rebelle;Bizet
+252:25:00;Faust;Vous qui faites l'endormie;Gounot
+255:17:00;Don Carlo;O don fatale;Verdi
+260:10:00;Turandot;Signore, ascolta;Puccini
+262:40:00;Un Ballo in Maschera;Morrò, ma prima in grazia;Verdi
+267:20:00;Rigoletto;La donna è mobile;Verdi
+269:40:00;Il Barbiere di Siviglia;Una voce poco fa;Rossini
+275:40:00;Don Giovanni;Deh! Vieni alla finestra;Mozart
+277:38:00;Il Trovatore;Vedi! Le fosche notturne spoglie (Anvil Chorus);Verdi
+280:29:00;Le Nozze di Figaro;E Susanna non vien…Dove sono i biei mom;Mozart
+285:20:00;Die Zauberflöte;Der Vogelfänger bin ich ja (Papageno);Mozart
+288:00:00;Norma;Casta Diva;Bellini
+294:20:00;Il Trovadore;Stride la vampa!...Mesta e la tua canzon;Verdi
+297:08:00;Pagliacci ;Recitar!...Vesti la giubba;Leoncavallo
+300:40:00;Don Giovanni;Finch'han dal vino;Mozart
+302:05:00;Turandot;In questa Reggia;Puccini
+308:37:00;Carmen;Habanera & Seguidille;Bizet
+312:33:00;L'Africaine;Mi batte il cor…O paradiso!;Meyerbeer
+315:17:00;La Gioconda;Suicidio!;Ponchielli
+319:33:00;La Forza del Destino;Solenne in quest'ora;Verdi
+323:40:00;Tristan und Isolde;Mild und leise wie er Lächelt;Wagner
+330:25:00;Die Walküre;Loge, hör!;Wagner
+335:23:00;Turandot;Tu che di gel sei cinta;Puccini
+337:50:00;Il Trovadore;Squilli, echeggi la tromba;Verdi
+339:50:00;Manon Lescaut;Donna non vidi mai;Puccini
+342:20:00;I Vespri Siciliani;Merce, dilette amiche;Verdi
+345:51:00;Faust;Le veau d'or;Gounot
+347:54:00;Andrea Chénier;Colpito qui M'avete…un di all'azzura spazio;Giordano
+352:47:00;Otello;Fuoco di gioia;Verdi
+355:26:00;L'Arlesiana;E la solita storia;Cilèa
+360:14:00;Aida;Qui Radamès verra!... O patria mia;Verdi
+366:36:00;La Traviata;Di Provenza il mar, il suol;Verdi
+371:09:00;Cavalleria Rusticana;Voi lo sapete, o mama;Mascagni
+374:49:00;Il Trovadore;Ah si ben mio;Verdi
+378:17:00;Madama Butterfly;Un bel dì, vedremo;Puccini
+382:48:00;Aida;Celeste Aida;Verdi
+387:30:00;La Traviata;Prelude;Verdi
+391:05:00;La Traviata;Libiamo ne' lieti calici;Verdi
+394:03:00;Rigoletto;Questa o quella;Verdi
+398:35:00;La Favorita;O Mio Fernando, Della Terra il Trono;Donizetti
+402:08:00;La Fanciulla del West;Ch'ella mi creda;Puccini
